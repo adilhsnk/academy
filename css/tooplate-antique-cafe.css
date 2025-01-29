@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+=======
+.logo-container img {
+    max-width: 100%;  /* Ensures it doesn't overflow */
+    height: auto;     /* Maintains aspect ratio */
+    max-height: 50px; /* Adjust based on your design */
+}
+
+@media (max-width: 768px) {
+    .logo-container img {
+        max-height: 40px; /* Reduce size on smaller screens */
+    }
+}
+
+
+
+>>>>>>> bd78dc0b6fdb867e5ecd7f1bdb148d58f8b75f3e
 /*
 
 Tooplate 2126 Antique Cafe
