@@ -1,3 +1,15 @@
+.logo-container {
+    position: absolute;
+    top: 5px; /* Adjust as needed */
+    left: 5px; /* Adjust as needed */
+    z-index: 1000; /* Ensures it stays above other elements */
+}
+
+.logo-container img {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+}
+
 /*! tailwindcss v2.2.9 | MIT License | https://tailwindcss.com */
 
 /*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
