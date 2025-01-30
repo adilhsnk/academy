@@ -196,7 +196,7 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
 @media (max-width: 767px) {
     .logo-container {
         top: 15px;    /* Slightly adjust for smaller screens */
-        left: -580px;   /* Adjust left position */
+        left: -425px;   /* Adjust left position */
     }
 
     .logo-container img {
